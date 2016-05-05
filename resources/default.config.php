@@ -5,7 +5,7 @@ return array(
     // Basic settings
     'hide_dot_files'            => true,
     'list_folders_first'        => true,
-    'list_sort_order'           => 'natcasesort',
+    'list_sort_order'           => 'natcasesort',//mod_timestamp_desc,mod_timestamp_asc,asort,arsort,ksort,krsort,natcasesort,natsort,shuffle
     'theme_name'                => 'bootstrap',
     'external_links_new_window' => true,
 
